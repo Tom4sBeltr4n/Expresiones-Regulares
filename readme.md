@@ -3,6 +3,7 @@ ESPAÑOL | 🇪🇸 | SPANISH
 
 Este repositorio ha sido creado para registrar mis apuntes y aprendizaje en el [curso](https://platzi.com/cursos/expresiones-regulares/) mencionado. Lo tomo en [Platzi](platzi.com) y lo dicta [Alberto Alcocer](https://platzi.com/profes/alberto-alcocer-42/). "00-logsum.js" es dondes están los apuntes, y se subirán archivos de ejercicios de clase. 
 
+------------
 INGLÉS | 🇬🇧 | ENGLISH
 # Regular Expressions Course  
 
